@@ -1,0 +1,24 @@
+{
+  "name": "repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://x-access-token:ghs_13473_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhdXRobmQiLCJjdHgiOiJsSlZSQnZIRTgxVHBmcWhES1h4WFNCeUVFYXpEZHZVdjJIREQzNEUzTE9odDd3NTFlNGZmRWc4UHlRIiwiZXhwIjoxNzkxNjU4ODYxLCJpYXQiOjE3OTE2NTUyNjEsImlzcyI6ImdpdGh1YiIsImp0aSI6IjcwMDQwZGNjLTljOTgtNDYxMC1iMmUzLTkwNzlkNjgyNTQ3NyIsInZlciI6M30.fKjCPYM-6qP7sYKY29Ev-5X5VT2bbTojPqwRtRjpWwbO3z_SYvLYy3CeQuM3p5pLRgMig2QYdNErj9fgpjRlsw@github.com/qqmxgrdzdg-max/Letableau.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/qqmxgrdzdg-max/Letableau/issues"
+  },
+  "homepage": "https://github.com/qqmxgrdzdg-max/Letableau#readme",
+  "dependencies": {
+    "@netlify/database": "^2.0.1"
+  }
+}
